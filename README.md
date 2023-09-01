@@ -45,7 +45,7 @@ The objective of this analysis is to establish an automated pipeline that can ex
 
 Data Sources:
 
-- Wikipedia web scrape [JSON file](Resources/wikipedia-movies.json).
+- Wikipedia web scrape JSON file.
 - Kaggle data from [Kaggle.com](https://www.kaggle.com/rounakbanik/the-movies-dataset) - consisting of two files: movies_metadata.csv and ratings.csv.
 
 Environment:
